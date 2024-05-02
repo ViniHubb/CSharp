@@ -111,9 +111,8 @@ static class Program
                 Console.Write($"{letra} ");
             });
         }
-        Console.ReadLine();
-
         Console.WriteLine("\n\n##########################################################################\n");
+        Console.ReadLine();
     }
 }
 static class Extensions
